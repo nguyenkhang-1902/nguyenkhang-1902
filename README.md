@@ -27,6 +27,16 @@ Ho Chi Minh City · Background in data engineering (real-time & batch pipelines)
 | [**recruitment-cdc-pipeline**](https://github.com/nguyenkhang-1902/recruitment-cdc-pipeline) | Real-time CDC pipeline (Kappa architecture) cutting data latency from 24h to **under 30s**. | Kafka · Spark Streaming · Cassandra · Airflow |
 | [**graph-rag-legal-qa**](https://github.com/nguyenkhang-1902/graph-rag-legal-qa) | Graph RAG over a Vietnamese legal corpus: vector retrieval plus citation-graph traversal. | Neo4j · Chroma · Ollama |
 
+## Professional Experience
+
+**Internal tools for an HR-services company** — web apps and data services used by HR, payroll and operations teams.
+
+- Built and secured internal apps: Google Workspace SSO, role-based access, and a role-by-role access audit.
+- Designed a multi-domain site engine: one codebase serving several branded sites through per-site config, a shared page registry and dynamic routing, covered by regression tests.
+- Hardened an attendance-data sync service: encrypted secrets and phone numbers, masked national IDs in the UI, database-level deduplication, audit log and reconciliation reports.
+- Shipped on Docker with Cloudflare Tunnel on self-managed VPS hosts (rootless containers, self-hosted Postgres), with deploy runbooks and handover docs.
+- Work spec-first (specs, plans, task breakdowns) and use AI coding assistants as part of the workflow.
+
 ## Most Used Languages
 
 <img src="./profile/top-langs.svg" alt="Top languages" height="165" />
