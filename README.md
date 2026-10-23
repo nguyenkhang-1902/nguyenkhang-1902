@@ -33,5 +33,5 @@ Ho Chi Minh City · Background in data engineering (real-time & batch pipelines)
 
 ## Contact
 
-- LinkedIn: [your-handle](https://www.linkedin.com/in/your-handle) <!-- TODO: replace with real link, or remove -->
+- LinkedIn: [khangnguyen1902](https://www.linkedin.com/in/khangnguyen1902/)
 - GitHub: [@nguyenkhang-1902](https://github.com/nguyenkhang-1902)
