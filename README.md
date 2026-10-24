@@ -34,7 +34,7 @@ Ho Chi Minh City · Background in data engineering (real-time & batch pipelines)
 - Built and secured internal apps: Google Workspace SSO, role-based access, and a role-by-role access audit.
 - Designed a multi-domain site engine: one codebase serving several branded sites through per-site config, a shared page registry and dynamic routing, covered by regression tests.
 - Hardened an attendance-data sync service: encrypted secrets and phone numbers, masked national IDs in the UI, database-level deduplication, audit log and reconciliation reports.
-- Shipped on Docker with Cloudflare Tunnel on self-managed VPS hosts (rootless containers, self-hosted Postgres), with deploy runbooks and handover docs.
+- Deployed web apps to Vercel with Neon Postgres, and to self-managed Linux VPS hosts on Docker (rootless containers, self-hosted Postgres) behind Cloudflare Tunnel; wrote deploy runbooks and handover docs.
 - Work spec-first (specs, plans, task breakdowns) and use AI coding assistants as part of the workflow.
 
 ## Most Used Languages
