@@ -2,7 +2,7 @@
 
 **AI / RAG Engineer** building 100% local question-answering systems that stay grounded in the source documents.
 
-Ho Chi Minh City · Background in data engineering (real-time & batch pipelines) · **Open to work**
+Ho Chi Minh City · Background in AI engineering (real-time & batch pipelines) · **Open to work**
 
 ## Currently building
 
